@@ -1,4 +1,4 @@
-# sha1-salt.sha1-salt.sha1-pass-Pure-Hashcat-Kernel
+# sha1-salt.sha1-salt.sha1-pass-
 sha1($salt.sha1($salt.sha1($pass))) Pure Hashcat Kernel
 
 Someone was having issues creating a kernel for this algorithm and asked for help. This is a quick pure -a 0 kernel to help them out. Developed on Hashcat v6.2.6.
